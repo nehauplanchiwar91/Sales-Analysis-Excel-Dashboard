@@ -8,16 +8,16 @@ This dashboard eliminates manual reporting and provides a single view of busines
 
 🔧 Tools Used
 
-Microsoft Excel
-Power Query
-Pivot Tables
-Charts & Slicers
+1.Microsoft Excel
+2.Power Query
+3.Pivot Tables
+4.Charts & Slicers
 
 🧠 Key Learnings
-Data cleaning and preparation
-Merging datasets using Power Query
-Analytical thinking with pivot tables
-Building interactive dashboards in Excel
+1.Data cleaning and preparation
+2.Merging datasets using Power Query
+3.Analytical thinking with pivot tables
+4.Building interactive dashboards in Excel
 
 📈 Business Problems Solved
 1. Revenue by Month
